@@ -13,4 +13,4 @@ Youtube_Channel :https://www.youtube.com/channel/UChukKWu0KrtXeZLlYjJshHg
 
 Setup OpenCv2/OpenCv3 : https://www.youtube.com/watch?v=Oq18KACn8kA
 
-Face detection using opencv HAAR Cascade : 
+Face detection using opencv HAAR Cascade : https://www.youtube.com/watch?v=F3rlb276wkk
