@@ -35,4 +35,5 @@ for (x,y,w,h) in faces:
 
 	# Display an image in a window 
 	cv2.imshow('image',image) 
+	cv2.imwrite("faceEye.png",image)
 cv2.waitKey(0)
